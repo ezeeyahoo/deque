@@ -20,5 +20,5 @@ node_js:
   - 8
 
 script:
-  - npm install grunt-bump
+  - npm install grunt grunt-bump
   - npm test
